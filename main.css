@@ -271,7 +271,7 @@ a:focus {
   margin: 0;
   justify-content: center;
   align-items: center;
-  background-color: #fafafa;
+  /*background-color: #fafafa;*/
 }
 
 .table-container {
